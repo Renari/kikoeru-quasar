@@ -24,7 +24,7 @@
     "axios": "^1.6.0",
     "dotenv": "^10.0.0",
     "lrc-file-parser": "^1.2.7",
-    "pinia": "^2.1.6",
+    "pinia": "^2.1.7",
     "quasar": "^2.14.0",
     "vue": "^3.3.4",
     "vue-3-socket.io": "^1.0.5",
