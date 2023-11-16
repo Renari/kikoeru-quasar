@@ -24,8 +24,8 @@ dependencies:
     specifier: ^2.1.6
     version: 2.1.6(typescript@4.9.5)(vue@3.3.4)
   quasar:
-    specifier: ^2.12.5
-    version: 2.12.5
+    specifier: ^2.14.0
+    version: 2.14.0
   vue:
     specifier: ^3.3.4
     version: 3.3.4
@@ -5965,7 +5965,7 @@ packages:
       acorn: 8.10.0
       eslint-visitor-keys: 3.4.3
       espree: 9.6.1
-      semver: 7.3.8
+      semver: 7.5.4
     dev: true
 
   /jsonfile@6.1.0:
@@ -7319,8 +7319,8 @@ packages:
       side-channel: 1.0.4
     dev: true
 
-  /quasar@2.12.5:
-    resolution: {integrity: sha512-YPG9O+bRq3imN53EGKPyM6rUdx+IGxrs4Q1AljeA4JQh0FibWyPzM44hxFpO8JQiuWAJ5e5wZXhsyeyFyb4a2w==}
+  /quasar@2.14.0:
+    resolution: {integrity: sha512-hxaQ/yd/qNGgpUrww4fQRSpklKnZN90HXhmhmPE5h+yFCcXreU+JgM3m/Mf6Qv7lMNQZQkYipgZ5Ja41DYkVUQ==}
     engines: {node: '>= 10.18.1', npm: '>= 6.13.4', yarn: '>= 1.21.1'}
     dev: false
 
@@ -7542,7 +7542,7 @@ packages:
     resolution: {integrity: sha512-nBpuuYuY5jFsli/JIs1oldw6fOQCBioohqWZg/2hiaOybXOft4lonv85uDOKXdf8rhyK159cxU5cDcK/NKk8zw==}
     hasBin: true
     dependencies:
-      is-core-module: 2.11.0
+      is-core-module: 2.13.0
       path-parse: 1.0.7
       supports-preserve-symlinks-flag: 1.0.0
     dev: true
@@ -7560,7 +7560,7 @@ packages:
     resolution: {integrity: sha512-iMDbmAWtfU+MHpxt/I5iWI7cY6YVEZUQ3MBgPQ++XD1PELuJHIl82xBmObyP2KyQmkNB2dsqF7seoQQiAn5yDQ==}
     hasBin: true
     dependencies:
-      is-core-module: 2.11.0
+      is-core-module: 2.13.0
       path-parse: 1.0.7
       supports-preserve-symlinks-flag: 1.0.0
     dev: true
@@ -8711,7 +8711,7 @@ packages:
   /vue-plyr@7.0.0:
     resolution: {integrity: sha512-NvbO/ZzV1IxlBQQbQlon5Sk8hKuGAj3k4k0XVdi7gM4oSqu8mZMhJ3WM3FfAtNfV790jbLnb8P3dHYqaBqIv6g==}
     dependencies:
-      plyr: github.com/sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658
+      plyr: git/github.com+sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658
       vue: 2.7.14
     dev: false
 
@@ -9136,8 +9136,8 @@ packages:
       readable-stream: 3.6.2
     dev: true
 
-  github.com/sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658:
-    resolution: {tarball: https://codeload.github.com/sampotts/plyr/tar.gz/d434c9af16e641400aaee93188594208d88f2658}
+  git/github.com+sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658:
+    resolution: {commit: d434c9af16e641400aaee93188594208d88f2658, repo: git@github.com:sampotts/plyr.git, type: git}
     name: plyr
     version: 3.7.0
     dependencies:
