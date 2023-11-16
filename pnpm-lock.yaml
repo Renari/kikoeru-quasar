@@ -21,8 +21,8 @@ dependencies:
     specifier: ^1.2.7
     version: 1.2.7
   pinia:
-    specifier: ^2.1.6
-    version: 2.1.6(typescript@4.9.5)(vue@3.3.4)
+    specifier: ^2.1.7
+    version: 2.1.7(typescript@4.9.5)(vue@3.3.4)
   quasar:
     specifier: ^2.14.0
     version: 2.14.0
@@ -48,7 +48,7 @@ dependencies:
 devDependencies:
   '@quasar/app-webpack':
     specifier: ^3.9.6
-    version: 3.9.6(eslint@8.53.0)(pinia@2.1.6)(vue-router@4.2.4)(vue@3.3.4)
+    version: 3.9.6(eslint@8.53.0)(pinia@2.1.7)(vue-router@4.2.4)(vue@3.3.4)
   '@types/webpack-env':
     specifier: ^1.18.1
     version: 1.18.1
@@ -1669,7 +1669,7 @@ packages:
     resolution: {integrity: sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==}
     dev: true
 
-  /@quasar/app-webpack@3.9.6(eslint@8.53.0)(pinia@2.1.6)(vue-router@4.2.4)(vue@3.3.4):
+  /@quasar/app-webpack@3.9.6(eslint@8.53.0)(pinia@2.1.7)(vue-router@4.2.4)(vue@3.3.4):
     resolution: {integrity: sha512-RBeawdJmbD3dyYkICdSJ1bN5GU2FQ1t50nQLf5iR3twuDRnGuUPKdiJSXTzFrCgZC73jEVaDTv/4QQ4sn3iszw==}
     engines: {node: '>= 14.15', npm: '>= 6.14.12', yarn: '>= 1.17.3'}
     hasBin: true
@@ -1734,7 +1734,7 @@ packages:
       node-loader: 2.0.0(webpack@5.88.2)
       null-loader: 4.0.1(webpack@5.88.2)
       open: 8.4.0
-      pinia: 2.1.6(typescript@4.9.5)(vue@3.3.4)
+      pinia: 2.1.7(typescript@4.9.5)(vue@3.3.4)
       postcss: 8.4.21
       postcss-loader: 7.0.2(postcss@8.4.21)(webpack@5.88.2)
       postcss-rtlcss: 4.0.1(postcss@8.4.21)
@@ -6880,8 +6880,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /pinia@2.1.6(typescript@4.9.5)(vue@3.3.4):
-    resolution: {integrity: sha512-bIU6QuE5qZviMmct5XwCesXelb5VavdOWKWaB17ggk++NUwQWWbP5YnsONTk3b752QkW9sACiR81rorpeOMSvQ==}
+  /pinia@2.1.7(typescript@4.9.5)(vue@3.3.4):
+    resolution: {integrity: sha512-+C2AHFtcFqjPih0zpYuvof37SFxMQ7OEG2zV9jRI12i9BOy3YQVAHwdKtyyc8pDcDyIc33WCIsZaCFWU7WWxGQ==}
     peerDependencies:
       '@vue/composition-api': ^1.4.0
       typescript: '>=4.4.4'
