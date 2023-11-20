@@ -18,8 +18,8 @@ dependencies:
     specifier: ^10.0.0
     version: 10.0.0
   lrc-file-parser:
-    specifier: ^1.2.7
-    version: 1.2.7
+    specifier: ^2.4.1
+    version: 2.4.1
   pinia:
     specifier: ^2.1.7
     version: 2.1.7(typescript@4.9.5)(vue@3.3.4)
@@ -6234,8 +6234,8 @@ packages:
       tslib: 2.5.0
     dev: true
 
-  /lrc-file-parser@1.2.7:
-    resolution: {integrity: sha512-z2+1tUH3N054vFNXvF8F6g0vXWXf66IWJC1cdue8tfdYlK6FXKPsE3ReUmbzHDber+gmSHt1kDlkCJISZ4BBDQ==}
+  /lrc-file-parser@2.4.1:
+    resolution: {integrity: sha512-vriDfIyKqdL7xUOHzsAojY/LwfsLBx/Lnob/9EzIx89ZtHLCFl8ewAeR7LaFC+frw8ITRDSgr3mzyb7cZPXYNg==}
     dev: false
 
   /lru-cache@5.1.1:
@@ -8770,7 +8770,7 @@ packages:
   /vue-plyr@7.0.0:
     resolution: {integrity: sha512-NvbO/ZzV1IxlBQQbQlon5Sk8hKuGAj3k4k0XVdi7gM4oSqu8mZMhJ3WM3FfAtNfV790jbLnb8P3dHYqaBqIv6g==}
     dependencies:
-      plyr: git@github.com+sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658
+      plyr: git/github.com+sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658
       vue: 2.7.14
     dev: false
 
@@ -9195,7 +9195,7 @@ packages:
       readable-stream: 3.6.2
     dev: true
 
-  git@github.com+sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658:
+  git/github.com+sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658:
     resolution: {commit: d434c9af16e641400aaee93188594208d88f2658, repo: git@github.com:sampotts/plyr.git, type: git}
     name: plyr
     version: 3.7.0
