@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@quasar/app-webpack": "^3.9.6",
-    "@types/webpack-env": "^1.18.1",
+    "@types/webpack-env": "^1.18.4",
     "copy-webpack-plugin": "^5.1.2",
     "core-js": "^3.32.1",
     "eslint": "^8.53.0",

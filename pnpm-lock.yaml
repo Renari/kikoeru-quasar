@@ -50,8 +50,8 @@ devDependencies:
     specifier: ^3.9.6
     version: 3.9.6(eslint@8.53.0)(pinia@2.1.7)(vue-router@4.2.4)(vue@3.3.4)
   '@types/webpack-env':
-    specifier: ^1.18.1
-    version: 1.18.1
+    specifier: ^1.18.4
+    version: 1.18.4
   copy-webpack-plugin:
     specifier: ^5.1.2
     version: 5.1.2(webpack@5.88.2)
@@ -2039,8 +2039,8 @@ packages:
       - webpack-cli
     dev: true
 
-  /@types/webpack-env@1.18.1:
-    resolution: {integrity: sha512-D0HJET2/UY6k9L6y3f5BL+IDxZmPkYmPT4+qBrRdmRLYRuV0qNKizMgTvYxXZYn+36zjPeoDZAEYBCM6XB+gww==}
+  /@types/webpack-env@1.18.4:
+    resolution: {integrity: sha512-I6e+9+HtWADAWeeJWDFQtdk4EVSAbj6Rtz4q8fJ7mSr1M0jzlFcs8/HZ+Xb5SHzVm1dxH7aUiI+A8kA8Gcrm0A==}
     dev: true
 
   /@types/ws@8.5.4:
@@ -8770,7 +8770,7 @@ packages:
   /vue-plyr@7.0.0:
     resolution: {integrity: sha512-NvbO/ZzV1IxlBQQbQlon5Sk8hKuGAj3k4k0XVdi7gM4oSqu8mZMhJ3WM3FfAtNfV790jbLnb8P3dHYqaBqIv6g==}
     dependencies:
-      plyr: git@github.com+sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658
+      plyr: git/github.com+sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658
       vue: 2.7.14
     dev: false
 
@@ -9195,7 +9195,7 @@ packages:
       readable-stream: 3.6.2
     dev: true
 
-  git@github.com+sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658:
+  git/github.com+sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658:
     resolution: {commit: d434c9af16e641400aaee93188594208d88f2658, repo: git@github.com:sampotts/plyr.git, type: git}
     name: plyr
     version: 3.7.0
